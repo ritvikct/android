@@ -47,6 +47,7 @@
   <project path="external/openssh" name="CarbonROM/android_external_openssh" groups="pdk" remote="carbon" />
   <project path="external/pdfium" name="CarbonROM/android_external_pdfium" groups="pdk" remote="carbon" />
   <project path="external/python/distro" name="CarbonROM/android_external_python_distro" remote="carbon" />
+  <project path="external/sonivox" name="CarbonROM/android_external_sonivox" groups="pdk" remote="carbon" />
   <project path="external/tinycompress" name="CarbonROM/android_external_tinycompress" groups="pdk" remote="carbon" />
   <project path="external/webp" name="CarbonROM/android_external_webp" groups="pdk,qcom_msm8x26" remote="carbon" />
 
