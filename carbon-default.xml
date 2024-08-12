@@ -12,6 +12,11 @@
            sync-c="true"
            sync-j="8" />
 
+  <remote  name="gl"
+           fetch="https://gitlab.com/"
+           sync-c="true"
+           sync-j="8" />
+
   <remote  name="private"
            fetch="ssh://git@github.com" />
 
